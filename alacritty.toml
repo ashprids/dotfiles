@@ -1,0 +1,34 @@
+[font]
+size = 11.0
+
+[font.normal]
+family = "Mx437 IBM VGA 8x16"
+style = "Regular"
+
+[colors.primary]
+foreground = "#dcd6d6"
+background = "#000000"
+
+[colors.normal]
+black = "#282828"
+blue = "#7cafc2"
+cyan = "#86c1b9"
+green = "#a1b56c"
+magenta = "#ba8baf"
+red = "#ab4642"
+white = "#dcd6d6"
+yellow = "#f7ca88"
+
+[colors.bright]
+black = '#585858'
+blue = '#7cafc2'
+cyan = '#86c1b9'
+green = '#a1b56c'
+magenta = '#ba8baf'
+red = '#ab4642'
+white = '#f8f8f8'
+yellow = '#f7ca88'
+
+[colors.selection]
+background = '#484848'
+text = '#dcd6d6'
